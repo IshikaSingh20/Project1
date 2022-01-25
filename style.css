@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: azure
+    
+    
+}
+h1{
+    color: palevioletred;
+    font-size: 35px;
+}
+p{
+    color: aqua;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+}
